@@ -1,0 +1,19 @@
+{
+  "name": "UnpendingChecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "discord.js": "^12.5.3",
+    "noblox.js": "^4.8.5"
+  }
+}
